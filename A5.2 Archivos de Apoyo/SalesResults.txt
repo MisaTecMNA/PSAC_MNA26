@@ -1,0 +1,15 @@
+
+--- Resultados para TC1/TC1.Sales.json ---
+Costo Total de Ventas
+Costo Total: $2,481.86
+Tiempo Transcurrido: 0.0082 segundos
+
+--- Resultados para TC2/TC2.Sales.json ---
+Costo Total de Ventas
+Costo Total: $166,568.23
+Tiempo Transcurrido: 0.0044 segundos
+
+--- Resultados para TC3/TC3.Sales.json ---
+Costo Total de Ventas
+Costo Total: $165,235.37
+Tiempo Transcurrido: 0.0099 segundos
